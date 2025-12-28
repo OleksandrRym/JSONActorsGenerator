@@ -33,3 +33,10 @@ GET /actors
 ]
 
 ```
+
+## 📦 Installation
+```
+https://github.com/OleksandrRym/JSONActorsGenerator.git
+ollama pull ollama2:7b
+ollama run llama2:7b  
+im the program -> run main class
